@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+using FlexonDataVC.Storage;
 
 namespace FlexonDataVC.Commands {
     public class DiffCommand {
@@ -19,13 +20,16 @@ namespace FlexonDataVC.Commands {
                 return;
             }
 
-            string versionContent = File.ReadAllText(versionFile);
-            string stagedContent = File.ReadAllText(stagedFile);
+            try {
+                var (versionRows, versionSchema) = BinarySerializer.DeserializeDataset(versionFile);
+                var (stagedRows, stagedSchema) = BinarySerializer.DeserializeDataset(stagedFile);
 
-            Console.WriteLine("Diff between staged and version:");
-            Console.WriteLine("------------------------------");
-            Console.WriteLine($"Version Content: {versionContent}");
-            Console.WriteLine($"Staged Content: {stagedContent}");
+                var diff = DatasetComparer.CompareSets(versionRows, stagedRows, versionSchema);
+                Console.WriteLine(DatasetComparer.FormatDiff(diff));
+            }
+            catch (Exception ex) {
+                Console.WriteLine($"Error comparing datasets: {ex.Message}");
+            }
         }
     }
 }
