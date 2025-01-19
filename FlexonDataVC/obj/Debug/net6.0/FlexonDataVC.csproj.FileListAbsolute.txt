@@ -1,0 +1,4 @@
+C:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Debug\net6.0\FlexonDataVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Debug\net6.0\FlexonDataVC.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Debug\net6.0\FlexonDataVC.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Debug\net6.0\FlexonDataVC.csproj.CoreCompileInputs.cache

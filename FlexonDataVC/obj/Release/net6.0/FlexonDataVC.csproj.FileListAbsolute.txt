@@ -1,0 +1,14 @@
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.AssemblyInfoInputs.cache
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.AssemblyInfo.cs
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\bin\Release\net6.0\FlexonDataVC.exe
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\bin\Release\net6.0\FlexonDataVC.deps.json
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\bin\Release\net6.0\FlexonDataVC.runtimeconfig.json
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\bin\Release\net6.0\FlexonDataVC.dll
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\bin\Release\net6.0\FlexonDataVC.pdb
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.dll
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\refint\FlexonDataVC.dll
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.pdb
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\FlexonDataVC.genruntimeconfig.cache
+c:\Users\Administrator\Downloads\FlexonDataVC_Release\FlexonDataVC\obj\Release\net6.0\ref\FlexonDataVC.dll
